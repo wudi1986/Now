@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/background"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="bottom" >
+
+    <RelativeLayout
+        android:id="@+id/xlistview_header_content"
+        android:layout_width="match_parent"
+        android:layout_height="88dp" >
+
+        <LinearLayout
+            android:id="@+id/xlistview_header_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <!-- <TextView -->
+            <!-- android:id="@+id/xlistview_header_hint_textview" -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:text="@string/xlistview_header_hint_normal" /> -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:layout_marginTop="4dp"
+                android:orientation="horizontal" >
+				
+                <!-- <TextView -->
+                <!-- android:layout_width="wrap_content" -->
+                <!-- android:layout_height="wrap_content" -->
+                <!-- android:text="@string/xlistview_header_last_time" -->
+                <!-- android:textSize="12sp" /> -->
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                    >
+
+                    <ProgressBar
+                        android:id="@+id/xlistview_header_progressbar"
+                        android:layout_width="76dp"
+                        android:layout_height="88dp" 
+                        android:indeterminateDrawable="@anim/xlistview_progress_bar"
+                        android:visibility="gone"/>
+					
+                    <ImageView
+                        android:id="@+id/xlistview_header_stop"
+                        android:layout_width="76dp"
+                        android:layout_height="88dp" 
+                        android:src="@drawable/xlistview_loading1"/>
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/xlistview_header_hint_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:textSize="@dimen/font5"
+                    android:text="@string/xlistview_header_hint_normal"
+                    android:textColor="@color/meibao_color_3" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/xlistview_header_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/xlistview_header_text"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="-35dp" />
+    </RelativeLayout>
+
+</LinearLayout>

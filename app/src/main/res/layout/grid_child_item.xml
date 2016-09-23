@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yktx.util.SquareLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/framelayout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants" >
+
+    <com.android.gallety.MyImageView
+        android:id="@+id/child_image"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/gray_1"
+        android:padding="0.5dp"
+        android:scaleType="centerCrop" />
+    
+
+    <CheckBox
+        android:id="@+id/child_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:button="@drawable/pictures_select_icon" />
+
+    <CheckBox
+        android:id="@+id/child_checkbox_meijie"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:button="@null" />
+
+</com.yktx.util.SquareLayout>

@@ -1,0 +1,184 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_activitya"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/sticky_header"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+            <include  layout="@layout/title_layout"/>
+
+            <ImageView
+                android:id="@+id/home_logo"
+                android:layout_width="332dp"
+                android:layout_height="186dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="50dp"
+                android:src="@drawable/home_logo" />
+
+            <RelativeLayout
+                android:id="@+id/searchLayout"
+                android:layout_width="324dp"
+                android:layout_height="44dp"
+                android:layout_below="@id/home_logo"
+                android:layout_centerInParent="true"
+                android:background="@drawable/shape_search" >
+			<RelativeLayout 
+	    		android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true">
+                <ImageView
+                    android:id="@+id/searchLeft"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/search_left" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_toRightOf="@id/searchLeft"
+                    android:paddingLeft="8dp" >
+
+                    <Button
+                        android:id="@+id/btn_clear_search_text"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="right|center_vertical"
+                        android:background="@drawable/search_xiaocha"
+                        android:visibility="gone" />
+                    <!-- 清空搜索文字按钮 -->
+
+
+                    <!-- 输入的搜索信息 -->
+
+                    <TextView
+                        android:id="@+id/et_search"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="6dp"
+                        android:layout_toLeftOf="@id/btn_clear_search_text"
+                        android:background="#00000000"
+                        android:gravity="left|center_vertical"
+                        android:singleLine="true"
+                        android:text="搜索或输入无聊的事情"
+                        android:textColor="@color/meibao_color_6"
+                        android:textSize="@dimen/font3" />
+                </RelativeLayout>
+            </RelativeLayout>
+            
+            </RelativeLayout>
+
+            <!-- <RelativeLayout -->
+            <!-- android:layout_width="240dp" -->
+            <!-- android:layout_height="72dp" -->
+            <!-- android:layout_alignParentBottom="true" -->
+            <!-- android:layout_centerHorizontal="true" > -->
+
+
+            <!-- <ImageView -->
+            <!-- android:id="@+id/home_up" -->
+            <!-- android:layout_width="240dp" -->
+            <!-- android:layout_height="72dp" -->
+            <!-- android:layout_centerInParent="true" -->
+            <!-- android:src="@drawable/main_home_frist_animation" /> -->
+            <!-- <TextView -->
+            <!-- android:id="@+id/firstTextLeft" -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:text="看看别人" -->
+            <!-- android:layout_marginLeft="50dp" -->
+            <!-- android:layout_alignParentLeft="true" -->
+            <!-- android:textColor="@color/nearfragment_textother_color" -->
+            <!-- android:textSize="@dimen/font2" -->
+            <!-- android:layout_alignParentBottom="true" -->
+            <!-- android:layout_marginBottom="40dp" -->
+            <!-- /> -->
+            <!-- <TextView -->
+            <!-- android:id="@+id/firstTextRight" -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:text="一起玩闹" -->
+            <!-- android:layout_marginRight="51dp" -->
+            <!-- android:layout_alignParentRight="true" -->
+            <!-- android:textColor="@color/nearfragment_textother_color" -->
+            <!-- android:textSize="@dimen/font2" -->
+            <!-- android:layout_alignParentBottom="true" -->
+            <!-- android:layout_marginBottom="40dp" -->
+            <!-- /> -->
+
+
+            <!-- </RelativeLayout> -->
+
+
+            <!-- <RelativeLayout -->
+            <!-- android:id="@+id/rightHead" -->
+            <!-- android:layout_width="48dp" -->
+            <!-- android:layout_height="68dp" -->
+            <!-- android:layout_alignParentRight="true" -->
+            <!-- android:background="@drawable/home_right" > -->
+
+
+            <!-- <ImageView -->
+            <!-- android:id="@+id/userHead" -->
+            <!-- android:layout_width="24dp" -->
+            <!-- android:layout_height="24dp" -->
+            <!-- android:layout_centerInParent="true" -->
+            <!-- android:src="@drawable/home_right_head" /> -->
+            <!-- </RelativeLayout> -->
+
+
+            <!-- <ImageView -->
+            <!-- android:id="@+id/userHead_first" -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_alignParentRight="true" -->
+            <!-- android:src="@drawable/main_userhead_frist_animation" -->
+            <!-- android:visibility="gone" /> -->
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="108dp"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="8dp"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:paddingTop="4dp" 
+				>
+              
+
+                <com.yktx.wheel.widget.WheelView
+                    android:id="@+id/picker"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@color/white" >
+                </com.yktx.wheel.widget.WheelView>
+                  <TextView 
+                    android:layout_width="match_parent"
+                    android:layout_height="36dp"
+                    android:textColor="@color/meibao_color_6"
+                    android:textSize="@dimen/font5"
+                    android:text="大家正在搜"
+                    android:gravity="center"
+                    android:background="@color/white"
+                    />
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

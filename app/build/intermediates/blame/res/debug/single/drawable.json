@@ -1,0 +1,2002 @@
+[
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/common_tab_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/common_tab_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/btn_green_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/btn_green_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_divider_line.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_voice_button.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_voice_button.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_on.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_tx_on.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_grey.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_tick_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_tick_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_title_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/main_activity_animation.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/main_activity_animation.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/btn_cancel_normal_shape.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_tick_selected.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_tick_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_default_avatar.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/button_register_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/button_register_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_selected.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_reply_right_bg.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_reply_right_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/tb_munion_icon.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/tb_munion_icon.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_on.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_list_item.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_list_item.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/mm_listitem_grey.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/mm_listitem_grey.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_x_button.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_hollow_grey.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_shape_hollow_grey.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/btn_cancel_bj.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/btn_cancel_bj.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_reply_right_bg.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_reply_right_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_list_item_pressed.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_list_item_pressed.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_white.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_refersh.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_search_edit_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_search_edit_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_douban_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_normal.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_focused.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_bind_bt.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_bind_bt.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/recording_text_hint_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_label_bg.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_at_label_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_personal_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/type_select_btn.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/type_select_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_tick_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_tick_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_twitter_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_twitter_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_ic.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chatting_setmode_voice_btn.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_facebook_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_facebook_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_item_bg.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_item_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_blue.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/main_userhead_frist_animation.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/main_userhead_frist_animation.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_comment_icon.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_orange.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_tick_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_tick_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_talk_vedio_edittext_select.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_talk_vedio_edittext_select.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_member_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_member_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_color3.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_color3.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fetch_image_disabled.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_fetch_image_disabled.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_smile_btn_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_smile_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/wheel_val.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_list_item.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_list_item.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_pv.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_pv.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_gray_frame.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_gray_frame.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_lv.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_lv.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_tick_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_tick_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_right_pressed.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_reply_left_bg.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_reply_left_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_talk_edittext.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_talk_edittext.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_send_btn_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_item_bg.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_item_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_normal.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_comment_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_comment_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/btn_blue_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/btn_blue_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_age_full_man.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_age_full_man.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_top_banner.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_top_banner.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_close_bg_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_loca_yidu.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_loca_yidu.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt_selected.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_like.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_like.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_age_full_lv.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_age_full_lv.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/register_dialogexit_background.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/register_dialogexit_background.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_tick_selected.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_tick_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/btn_blue_normal_shape.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_talk_vedio_edittext_unselect.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_talk_vedio_edittext_unselect.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/button_normal_shape.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/button_normal_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_action_replay.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_action_replay.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_comment_selected.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_comment_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_yellow.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_shape_yellow.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_age_full_woman.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_age_full_woman.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_lv.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_lv.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_share_selected.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_grey_blue.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_google_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_google_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_on.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_point_normal.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_point_normal.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_share.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_share.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/wheel_val.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/timestampe_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/timestampe_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qzone_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_slate_bg.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_slate_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_tx_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_gmail.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_gmail.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/main_home_frist_animation.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/main_home_frist_animation.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_nav_bar_bg.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/mm_title_act_btn.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/mm_title_act_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_ucenter_hbg.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_ucenter_hbg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/background_tab.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_submit_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_submit_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chatting_setmode_voice_btn.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_press_speak_btn.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_tx_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/mm_listitem.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/mm_listitem.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_see_list_pressed.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_see_list_pressed.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_takepic_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_takepic_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_grey.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wxcircle_gray.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_renren_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/main_home_frist_animation.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/main_home_frist_animation.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_back_selected.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_back_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_send_btn_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/register_dialogexit_background.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/register_dialogexit_background.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_member.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_member.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_grey.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_location_grey.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_see_list_pressed.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_see_list_pressed.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_back_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_back_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_bt.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_shape_bt.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_google.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_google.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/type_select_btn.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/type_select_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sina_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/button_myprofile_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/button_myprofile_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_see_list_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_see_list_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_takepic_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_takepic_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_press_speak_btn.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_personal_selected.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_comment_icon.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fetch_image.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/tb_munion_icon.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/tb_munion_icon.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_button_left.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sms.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_sms.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/btn_blue_normal_shape.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_btn_bg_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_write_pressed.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_write_pressed.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_orange.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/button_selector_shape.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/button_selector_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/voice_call_hangup_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/voice_call_hangup_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fetch_location.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_fetch_location.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_facebook_close.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_facebook_close.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_chatchoosebg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_chatchoosebg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wechat.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_bind_bg.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_bind_select_bg.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_bind_select_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_voice_call_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_voice_call_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/button_normal_shape.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/button_normal_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/button_selector_shape.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/button_selector_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_submit_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_submit_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_gradient_orange.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_gradient_orange.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chatting_video_btn.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chatting_video_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_input_bar.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_input_bar.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_check_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sms.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_sms.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_nav_bar_bg.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_gmail_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_gmail_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_chatchoosebg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_chatchoosebg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_light_bar_bg.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/voice_call_hangup_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/voice_call_hangup_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/mm_listitem.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/mm_listitem.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_cyan.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_shape_cyan.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_share_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/btn_blue_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/btn_blue_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_left_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_tap.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_red.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_actionbar_bg.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_actionbar_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sina_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_bar_bg.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shareboard_item_background.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_facebook.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/button_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/button_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/checkbox_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/checkbox_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fetch_location_disabled.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_green.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_list_item_pressed.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_list_item_pressed.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_sina.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_sina.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_commnet_header_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_like.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_like.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_commnet_header_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_x_button.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt_selected.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login_pressed.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_red_blue.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_to_button.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back_selected.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_normal.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/pictures_select_icon.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/pictures_select_icon.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_focused.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/btn_cancel_pressed_shape.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_focused.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/btn_green_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/btn_green_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_loca_yidu.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_loca_yidu.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_whitebg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_whitebg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_comment_bg.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_camera_btn_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_camera_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_search_bg.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_at_search_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_sina.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_sina.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_douban_on.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_google_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_google_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_wifi_disable.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_light_bar_bg.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/button_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/button_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/btn_green_normal_shape.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/btn_green_normal_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sms_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq_login.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_qq_login.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shareboard_item_background.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_douban_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_pulltorefresh_arrow.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wxcircle.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_talk_vedio_edittext_select.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_talk_vedio_edittext_select.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_normal.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_member_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_member_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_transparent_corner.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/roominfo_add_btn.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/roominfo_add_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_left_pressed.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chatto_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chatto_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_red.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/recording_text_hint_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_search.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_search.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_smile_btn_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_smile_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_grey_blue.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_twitter.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_share_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/actionbar_bg_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/actionbar_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_unlike.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chatting_setmode_keyboard_btn.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_point_new.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_point_new.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_search_bg.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_at_search_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_label_bg.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_at_label_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_dialog_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/button_register_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/button_register_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_hollow_grey.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_shape_hollow_grey.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_conversation_bg.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_conversation_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fetch_location.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_fetch_location.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_grey.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_black.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_facebook_close.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_facebook_close.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_point_new.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_point_new.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_see_list_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_see_list_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_search.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_search.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_whitebg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_whitebg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_red.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq_login.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_qq_login.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_grey.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_arrow_right.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_arrow_right.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_location_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_location_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_reply_left_bg.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_reply_left_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt_selected.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sina_on.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wechat_gray.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_pulltorefresh_arrow.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_age_full_man.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_age_full_man.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_gradient_green.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_gradient_green.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wxcircle_gray.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_write_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_write_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_transparent_corner.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_color1.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_color1.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_button.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_comment_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_comment_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check_on.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_comment_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_title_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_talk_edittext.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_talk_edittext.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/tb_munion_item_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_voice_button.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_voice_button.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_chatsend.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_chatsend.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_tx_on.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_share_icon.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_share_icon.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/pictures_select_icon.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/pictures_select_icon.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_selected.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_bind_select_bg.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_bind_select_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_bt.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_shape_bt.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_age_girl.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_age_girl.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_ucenter_hbg.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_ucenter_hbg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_blue.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/register_dialog_background.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/register_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/actionbar_bg_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/actionbar_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_search_icon.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_comment_selected.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_comment_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_checked.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_checked.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_yellow.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_shape_yellow.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_renren_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_white_blue.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_check_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/btn_blue_pressed_shape.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_slate_bg.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_slate_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/main_userhead_frist_animation.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/main_userhead_frist_animation.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_checked.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_checked.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_tap.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_finish_select_btn.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_finish_select_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wxcircle.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_personal_selected.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_back_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_back_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chatting_video_btn.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chatting_video_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_yanzheng.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_yanzheng.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_statusbar_icon.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_statusbar_icon.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_renren_on.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_focused.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_personal_icon.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/common_tab_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/common_tab_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_green.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_user_bubble.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_user_bubble.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt_selected.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_button_left.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_red_blue.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/btn_cancel_bj.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/btn_cancel_bj.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_right_pressed.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_list_item_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_list_item_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chatting_setmode_keyboard_btn.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/mm_listitem_grey.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/mm_listitem_grey.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_facebook_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_facebook_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_point_normal.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_point_normal.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_write_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_write_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_window_shadow_pad.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_actionbar_bg.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_actionbar_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_selected.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_normal.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_tap.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_button_right.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qzone_on.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_yanzheng.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_yanzheng.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sms_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_mark.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_share_icon.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_share_icon.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_btn_bg_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_voice_call_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_voice_call_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chatto_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chatto_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/sidebar_background_pressed.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_divider_line.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/wheel_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/wheel_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_file_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_file_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_back_selected.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_back_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_cyan.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_shape_cyan.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_button.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_top_banner.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_top_banner.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_unlike.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_red.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_shape_red.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_right_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_age_full_lv.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_age_full_lv.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/wheel_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/wheel_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_button_right.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_chatsend.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_chatsend.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_color1.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_color1.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_comment_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_twitter.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_share.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_share.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_see_list_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_see_list_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back_selected.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wechat.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_action_replay.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_action_replay.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_red.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_shape_red.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/btn_green_pressed_shape.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/btn_green_pressed_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_gray_frame.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_gray_frame.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/recording_hint_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/recording_hint_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_right_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_logo.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_logo.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/msg_state_failed_resend.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/tb_munion_item_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_camera_btn_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_camera_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_bind_bg.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_talk_vedio_edittext_unselect.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_talk_vedio_edittext_unselect.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_gmail.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_gmail.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_image_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_image_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_bar_bg.9.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_gradient_green.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_gradient_green.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_share_selected.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_input_bar.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_input_bar.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_comment_selected.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_check.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_default_avatar.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/button_myprofile_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/button_myprofile_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_facebook.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fetch_image.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_white_blue.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/background_tab.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_refersh.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/btn_blue_pressed_shape.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/btn_cancel_pressed_shape.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_see_list_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_see_list_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/roominfo_add_btn.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/roominfo_add_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/checkbox_bg_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/checkbox_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/sidebar_background_pressed.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qzone_off.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_zhuce.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_zhuce.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/mm_title_act_btn.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/mm_title_act_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_conversation_bg.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_conversation_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/timestampe_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/timestampe_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fetch_image_disabled.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_fetch_image_disabled.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_comment_item_bg_shape.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_white.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_age_full_woman.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_age_full_woman.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login_pressed.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/main_activity_animation.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/main_activity_animation.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qzone_on.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_gmail_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_gmail_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_video_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_video_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_personal_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_user_bubble.9.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_user_bubble.9.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_comment_item_bg_shape.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_age.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_age.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_edittext.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_edittext.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_finish_select_btn.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_finish_select_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_pv.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_pv.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_renren_on.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_comment_selected.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_back_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_back_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_black.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/recording_hint_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/recording_hint_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_location_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_location_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_to_button.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_search_icon.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_write_pressed.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_write_pressed.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_video_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_video_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_color3.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_color3.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_left_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/checkbox_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/checkbox_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/checkbox_bg_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/checkbox_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_dialog_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_write_normal.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_write_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_mark.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq_on.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_bind_bt.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_bind_bt.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_age.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_age.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_member.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_member.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chatfrom_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chatfrom_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fetch_location_disabled.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_list_item_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_list_item_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_google.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_google.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_douban_on.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_personal_icon.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_on.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_comment_bg.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_logo.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_logo.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_tap.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_back_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_back_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_ic.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wechat_gray.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/btn_green_normal_shape.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/btn_green_normal_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/btn_cancel_normal_shape.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_fb_statusbar_icon.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_fb_statusbar_icon.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/shape_zhuce.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/shape_zhuce.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_write_normal.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_write_normal.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/msg_state_failed_resend.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_wifi_disable.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_close_bg_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chat_image_selector.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chat_image_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_grey.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_location_grey.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq_on.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sina_on.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_arrow_right.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_arrow_right.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_fb_gradient_orange.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_fb_gradient_orange.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/chatfrom_bg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/chatfrom_bg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_check.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/btn_green_pressed_shape.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/btn_green_pressed_shape.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_window_shadow_pad.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check_on.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_edittext.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_edittext.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_normal.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/chat_file_selector.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/chat_file_selector.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/register_dialog_background.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/register_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_selected.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_red.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_left_pressed.png",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_twitter_off.png",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/drawable/umeng_socialize_twitter_off.png"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_age_girl.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_age_girl.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/drawable/shape_search_edit_bg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/drawable/shape_search_edit_bg.xml"
+    }
+]

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="@color/white" >
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="48dp" />
+
+    <TextView
+        android:id="@+id/near_groupName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="16dp"
+        android:gravity="center"
+        android:text="立即体验"
+        android:textColor="@color/gray_5"
+        android:textSize="@dimen/font2" />
+
+    <TextView
+        android:id="@+id/near_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="4dp"
+        android:layout_toRightOf="@id/near_groupName"
+        android:background="@drawable/home_near_num"
+        android:paddingLeft="8dp"
+        android:paddingRight="2dp"
+        android:text="100人"
+        android:visibility="gone"
+        android:textColor="@color/rose_red"
+        android:textSize="8sp" />
+
+    <ImageView
+        android:id="@+id/near_rightJian"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginRight="16dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/icon_arrow" />
+
+   
+
+    <TextView
+        android:id="@+id/near_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:layout_toLeftOf="@id/near_rightJian"
+        android:gravity="center"
+        android:textColor="@color/gray_5"
+        android:text="0.4km"
+        android:visibility="gone"
+        android:textSize="@dimen/font3" />
+    
+     <ImageView
+        android:id="@+id/near_distance_icon"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_toLeftOf="@id/near_distance"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        android:src="@drawable/list_distance_sign" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="16dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/meibao_color_6" /> 
+
+</RelativeLayout>

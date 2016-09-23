@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/meibao_color_8" >
+
+        <ImageView
+            android:id="@+id/searchLeft"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:src="@drawable/search_left" />
+
+        <TextView
+            android:id="@+id/right"
+            android:layout_width="54dp"
+            android:layout_height="32dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="4dp"
+            android:gravity="center"
+            android:text="取消"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font3" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_toLeftOf="@id/right"
+            android:background="@drawable/shape_member"
+            android:layout_toRightOf="@id/searchLeft"
+            android:paddingLeft="8dp" >
+
+            <Button
+                android:id="@+id/btn_clear_search_text"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="right|center_vertical"
+                android:background="@drawable/search_xiaocha"
+                android:visibility="gone" />
+            <!-- 清空搜索文字按钮 -->
+
+
+            <!-- 输入的搜索信息 -->
+
+            <EditText
+                android:id="@+id/et_search"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="4dp"
+                android:layout_toLeftOf="@id/btn_clear_search_text"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:hint="在这里输入"
+                android:imeOptions="actionSearch"
+                android:inputType="text"
+                android:paddingLeft="8dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/meibao_color_6"
+                android:background="@null"
+                android:textCursorDrawable="@drawable/search_guangbiao"
+                android:textSize="@dimen/font3" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!-- <View -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="1dp" -->
+    <!-- android:background="@color/meibao_color_6" /> -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/searchListView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:divider="@null"
+            android:scrollbars="none" />
+
+        <!-- <View -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="0.5dp" -->
+        <!-- android:background="@color/gray_6" /> -->
+
+        <ImageView
+            android:id="@+id/noHistoryImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="48dp"
+            android:src="@drawable/no_search_history"
+	        android:adjustViewBounds="true"
+	        android:scaleType="centerCrop"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/search_history"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:gravity="center_horizontal"
+			android:text="清除历史记录"
+			android:textColor="@color/meibao_color_2"
+			android:textSize="@dimen/font4"
+			 />
+    </LinearLayout>
+    <!-- </ScrollView> -->
+
+</LinearLayout>

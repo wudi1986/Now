@@ -1,0 +1,222 @@
+[
+    {
+        "outputFile": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1159
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1159
+                    }
+                }
+            }
+        ]
+    }
+]

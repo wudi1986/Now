@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res/com.yktx.group"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainMenuActivity" >
+
+    <include
+        android:id="@+id/activitytop"
+        layout="@layout/title_layout"
+        android:visibility="gone" />
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_below="@id/activitytop"
+        android:background="@color/meibao_color_6"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/main_upLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/line"
+        android:orientation="vertical" >
+
+        <com.yktx.mylistview.XListView
+            android:id="@+id/xListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:divider="@null"
+            android:scrollbars="none"
+            app:isMyProgressBar="true" />
+
+        <ImageView
+            android:id="@+id/imageListNull"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+	        android:adjustViewBounds="true"
+	        android:scaleType="centerCrop"
+            android:src="@drawable/attention_list_null"
+            android:visibility="gone" />
+
+        <include
+            android:id="@+id/loadingView"
+            layout="@layout/loading_view_anim"/>
+    </RelativeLayout>
+
+</RelativeLayout>

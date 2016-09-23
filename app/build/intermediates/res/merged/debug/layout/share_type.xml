@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/share"
+    android:layout_width="360dp"
+    android:layout_height="fill_parent"
+    android:background="@drawable/kongtu"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/shape_talk_edittext"
+        android:paddingBottom="12dp" >
+
+        <LinearLayout
+            android:id="@+id/layout1"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingTop="8dp" >
+
+            <TextView
+                android:id="@+id/title1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="发布成功"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font3" />
+
+            <TextView
+                android:id="@+id/title2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:text="分享给小伙伴吧！"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font2" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/pengyouquan"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/layout1"
+            android:layout_marginRight="56dp"
+            android:layout_marginTop="12dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/pengyouquan_1080" />
+
+            <TextView
+                android:layout_width="56dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="朋友圈"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font5" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/weixin"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/layout1"
+            android:layout_marginLeft="56dp"
+            android:layout_marginTop="12dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/weixin_1080" />
+
+            <TextView
+                android:layout_width="56dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="微信好友"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font5" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/share_back"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/cancel" />
+
+    <ImageView
+        android:id="@+id/share_back"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/cancel"
+        android:visibility="invisible" />
+
+</RelativeLayout>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:background="@color/white"
+	    android:orientation="vertical"
+	    >
+	    <include layout="@layout/title_layout" />
+        <LinearLayout
+                android:id="@+id/loginLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="94dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="46dp"
+                   	android:layout_marginTop="2dp"
+                    android:layout_gravity="center_horizontal" >
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="账   号"
+                        android:textColor="@color/meibao_color_6"
+                        android:textSize="@dimen/font3" />
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_gravity="center_vertical"
+                        android:background="@color/meibao_color_6" />
+                    <EditText
+                        android:id="@+id/login_user"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="2dp"
+                        android:layout_weight="1"
+                        android:background="@color/none"
+                        android:ems="10"
+                        android:gravity="center"
+                        android:maxEms="8"
+                        android:minEms="1"
+                        android:textCursorDrawable="@drawable/guangbiao"
+                        android:textColor="@color/meibao_color_3"
+                        android:textSize="@dimen/font3"
+                        android:textColorHint="@color/meibao_color_6"
+                        android:hint="输入邮箱地址"
+                          />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/meibao_login_line" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="46dp"
+                   	android:layout_marginTop="2dp"
+                    android:layout_gravity="center_horizontal" >
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="密   码"
+                        android:textColor="@color/meibao_color_6"
+                        android:textSize="@dimen/font3" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="16dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_gravity="center_vertical"
+                        android:background="@color/meibao_color_6" />
+                    <EditText
+                        android:id="@+id/login_password"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="2dp"
+                        android:layout_weight="1"
+                        android:background="@color/none"
+                        android:ems="10"
+                        android:gravity="center"
+                        android:maxEms="8"
+                        android:minEms="1"
+                        android:inputType="textPassword"
+                        android:textCursorDrawable="@drawable/guangbiao"
+                        android:textColor="@color/meibao_color_3"
+                        android:textSize="@dimen/font3"
+                        android:textColorHint="@color/meibao_color_6"
+                        android:hint="输入密码"/>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/meibao_login_line" />
+                
+                  <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="4dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_horizontal" >
+                    <TextView 
+                        android:id="@+id/login_himt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_centerHorizontal="true"
+                        android:textColor="@color/meibao_color_1"
+                        android:textSize="@dimen/font4"
+                        />
+
+                    <LinearLayout
+                        android:id="@+id/autoLoginLayout"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent" 
+                        android:visibility="gone">
+
+                        <ImageView
+                            android:id="@+id/autoLoginCheck"
+                            android:layout_width="12dp"
+                            android:layout_height="12dp"
+                            android:layout_gravity="center_vertical"
+                            android:src="@drawable/zhuce_icon2" />
+
+<!--                         <TextView -->
+<!--                             android:id="@+id/login_himt" -->
+<!--                             android:layout_width="wrap_content" -->
+<!--                             android:layout_height="wrap_content" -->
+<!--                             android:layout_gravity="center_vertical" -->
+<!--                             android:padding="4dp" -->
+<!--                             android:text="下次自动登录" -->
+<!--                             android:textColor="@color/gray_5" -->
+<!--                             android:textSize="@dimen/font6" /> -->
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/remenberPasswordLayout"
+                        android:layout_width="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_height="match_parent"
+                        android:visibility="gone">
+
+                        <ImageView
+                            android:id="@+id/remenberPasswordCheck"
+                            android:layout_width="12dp"
+                            android:layout_height="12dp"
+                            android:layout_gravity="center_vertical"
+                            android:src="@drawable/zhuce_icon2" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:paddingLeft="4dp"
+                            android:text="记住密码"
+                            android:textColor="@color/gray_5"
+                            android:textSize="@dimen/font6" />
+                    </LinearLayout>
+                </RelativeLayout>
+                <TextView
+	                android:id="@+id/registerFinish"
+	                android:layout_width="match_parent"
+	                android:layout_height="48dp"
+	                android:layout_marginTop="4dp"
+	                android:layout_gravity="center_horizontal"
+	                android:gravity="center"
+	                android:text="登    录"
+	                android:background="@drawable/shape_member"
+	                android:textColor="@color/meibao_color_3"
+	                android:textSize="@dimen/font3" />
+	                  <!-- 都输入完了 背景改成shape_color3 -->
+                <TextView 
+                    android:id="@+id/forgetPassword"
+                    android:layout_width="wrap_content"
+                	android:layout_height="wrap_content"
+	                android:layout_marginTop="16dp"
+	                android:layout_gravity="right"
+	                android:gravity="center"
+	                android:textSize="@dimen/font4"
+	                android:textColor="@color/meibao_color_1"
+	                android:text="忘记密码？"
+	                android:visibility="gone"
+                    />
+               
+            </LinearLayout>
+	    
+	</LinearLayout>
+</RelativeLayout>

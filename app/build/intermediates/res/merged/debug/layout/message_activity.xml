@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res/com.yktx.group"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/meibao_color_8"
+    tools:context=".MainMenuActivity" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="消息"
+        android:textColor="@color/meibao_color_3"
+        android:textSize="@dimen/font2" />
+
+    <ImageView
+        android:id="@+id/message_leftImage"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/zhuce_back" />
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_below="@id/activitytop"
+        android:layout_marginTop="48dp"
+        android:background="@color/meibao_color_6" />
+
+    <RelativeLayout
+        android:id="@+id/message_upLayout"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:layout_below="@id/line"
+        android:layout_marginTop="20dp"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="16dp"
+            android:gravity="center_vertical"
+            android:text="曾经的Doing"
+            android:textColor="@color/meibao_color_3"
+            android:textSize="@dimen/font3" />
+
+        <ImageView
+            android:id="@+id/imagejian"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/xiaoxi_jiantou" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@id/imagejian"
+            android:gravity="center_vertical"
+            android:text="查看历史 "
+            android:textColor="@color/meibao_color_6"
+            android:textSize="@dimen/font4" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_below="@id/message_upLayout"
+        android:layout_marginLeft="16dp"
+        android:gravity="bottom"
+        android:paddingBottom="6dp"
+        android:text="私信聊天"
+        android:textColor="@color/meibao_color_5"
+        android:textSize="@dimen/font5" />
+
+    <ListView
+        android:id="@+id/xListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/message_upLayout"
+        android:layout_marginTop="40dp"
+        android:background="@color/white"
+        android:divider="@null"
+        android:scrollbars="none" />
+
+    <TextView
+        android:id="@+id/xListViewNull"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:layout_below="@id/message_upLayout"
+        android:layout_marginTop="40dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="16dp"
+        android:text="暂无私信"
+        android:textColor="@color/meibao_color_6"
+        android:textSize="@dimen/font4" />
+
+</RelativeLayout>

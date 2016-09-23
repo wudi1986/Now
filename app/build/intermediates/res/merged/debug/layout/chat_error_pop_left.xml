@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/chatErrorLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-1dp" >
+
+        <ImageView
+            android:id="@+id/chat_error_jian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:src="@drawable/chat_error_left" />
+
+        <ImageView
+            android:id="@+id/chat_error_send_again"
+            android:layout_toRightOf="@id/chat_error_jian"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/chat_error_send_again" />
+
+        <ImageView
+            android:id="@+id/chat_error_line"
+            android:layout_width="1dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/chat_error_send_again"
+            android:src="@drawable/chat_error_line" />
+
+        <ImageView
+            android:id="@+id/chat_error_quit"
+            android:layout_width="74dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/chat_error_line"
+            android:src="@drawable/chat_error_quit" />
+    </RelativeLayout>
+
+</LinearLayout>

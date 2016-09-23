@@ -1,0 +1,1290 @@
+[
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/loading_view_anim.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/loading_view_anim.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/update_password_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/update_password_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/commom_back_btn.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/commom_back_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_shareboard_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/register_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/register_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_right_text_at_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_right_text_at_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/item_pager_list.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/item_pager_list.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_titile_bar.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_expression.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_expression.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_error_pop_bottom.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_error_pop_bottom.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/history_fragment_child_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/history_fragment_child_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_received_video_call.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_received_video_call.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_pull_to_refresh_header.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/tb_munion_adview.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/tb_munion_adview.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_reply_item_audio.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_reply_item_audio.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_sent_video.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_sent_video.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/photo_g.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/photo_g.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_actionbar.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_actionbar.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_titile_bar_comment.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_titile_bar_comment.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/big_picture_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/big_picture_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_ucenter_platform_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_ucenter_platform_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_fragment.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_fragment.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/activity_show_big_image.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/activity_show_big_image.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/activity_add_contact.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/activity_add_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/gat_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/gat_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_sent_picture.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_sent_picture.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_input_conversation_audio.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_input_conversation_audio.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/xlistview_fragment_header.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/xlistview_fragment_header.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_contact.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_shareboard_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/history_fragment_child_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/history_fragment_child_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_more.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_comment_more.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_received_video.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_received_video.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_left_text_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_left_text_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/activity_baidumap.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/activity_baidumap.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/user_center_layout.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/user_center_layout.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_detail.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_comment_detail.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_left_text_zan_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_left_text_zan_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_input_contact.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_input_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/main_tab_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/main_tab_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/activity_group_simle_details.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/activity_group_simle_details.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/popshare_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/popshare_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/bottombar_group_text.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/bottombar_group_text.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_detail_nomap.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_comment_detail_nomap.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_received_voice.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_received_voice.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_activity_contact.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_activity_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/toast.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/toast.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_titile_bar_comment.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_titile_bar_comment.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/hot_or_near_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/hot_or_near_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_add_group.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_add_group.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/pop_native_share_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/pop_native_share_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_composer_header.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/big_picture_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/big_picture_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/activity_main_home.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/activity_main_home.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_add_group.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_add_group.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_reply_item_text.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_reply_item_text.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_contact.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/message_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/message_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_right_text_at_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_right_text_at_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/singleexpression.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/singleexpression.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_base_alert_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/history_fragment.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/history_fragment.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/title_layout.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/title_layout.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_right_photo_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_right_photo_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/share_type.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/share_type.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/login_newactivity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/login_newactivity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/near_fragment_item_first.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/near_fragment_item_first.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/expression_gridview.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/expression_gridview.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/tb_munion_aditem.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/tb_munion_aditem.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_simple_spinner_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/show_page.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/show_page.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_oauth_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_received_voice_call.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_received_voice_call.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/login_choice_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/login_choice_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/zan_info_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/zan_info_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_comment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/search_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/search_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_list_header.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_list_header.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_at_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_sent_message.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_sent_message.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_base_alert_dialog_button.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_group_member.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_group_member.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/near_fragment_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/near_fragment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_list_header.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_list_header.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_composer_header.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_sent_voice_call.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_sent_voice_call.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_center_text.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_center_text.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_error_pop_left.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_error_pop_left.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/post_loading.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/post_loading.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_view.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_comment_view.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_invite_msg.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_invite_msg.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/near_fragment_item_first.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/near_fragment_item_first.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_left_text_and_image_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_left_text_and_image_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_chat_history.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_chat_history.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/attention_fragment_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/attention_fragment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_audio_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_audio_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_left_photo_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_left_photo_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/login_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/login_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_input_conversation.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_input_conversation.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_oauth_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_ucenter_platform_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_ucenter_platform_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_activity_contact.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_activity_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_sent_file.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_sent_file.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_welcome_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_welcome_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_actionbar.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_actionbar.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_view.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_comment_view.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_bind_select_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/main_tab_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/main_tab_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_base_alert_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/gat_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/gat_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/history_fragment.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/history_fragment.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/update_password_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/update_password_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/attention_activity_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/attention_activity_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/home_near_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/home_near_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_received_file.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_received_file.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/grid_group_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/grid_group_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/show_page.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/show_page.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_sent_voice.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_sent_voice.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/item_pager_list.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/item_pager_list.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_online_gridview_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_online_gridview_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_input_conversation.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_input_conversation.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/photo_g.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/photo_g.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/zan_facial_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/zan_facial_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_sent_voice_call.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_sent_voice_call.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_received_video.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_received_video.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_received_picture.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_received_picture.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_comment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_error_pop_top.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_error_pop_top.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/activity_main_home.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/activity_main_home.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_welcome_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_welcome_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/activity_add_contact.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/activity_add_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/zan_info_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/zan_info_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_full_alert_dialog_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/xieyi_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/xieyi_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/history_expandablelistview_fragment.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/history_expandablelistview_fragment.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/search_result_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/search_result_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/home_hot_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/home_hot_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_received_video_call.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_received_video_call.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/expression_gridview.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/expression_gridview.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_sent_message.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_sent_message.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/singleexpression.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/singleexpression.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_contact.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_online_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_online_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/history_fragment_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/history_fragment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/main_menu.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/main_menu.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_error_pop_left.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_error_pop_left.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/camera_layout.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/camera_layout.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_received_voice_call.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_received_voice_call.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/toast.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/toast.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/activity_main_group_fragment.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/activity_main_group_fragment.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_photo_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_photo_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_new_reply_alert_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_new_reply_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_activity_conversation.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_activity_conversation.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_sent_file.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_sent_file.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_sent_video_call.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_sent_video_call.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/grid_chat_facial_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/grid_chat_facial_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_post_share.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_online_gridview_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_online_gridview_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_received_message.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_received_message.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_at_overlay.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_ucenter.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/show_image_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/show_image_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_center_text.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_center_text.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_content.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_comment_content.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/recommend_hlistview.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/recommend_hlistview.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_right_text_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_right_text_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_simple_spinner_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_expression.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_expression.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/home_hot_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/home_hot_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/grid_group_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/grid_group_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/camera_layout.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/camera_layout.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/login_or_register_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/login_or_register_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/xlistview_fragment_header.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/xlistview_fragment_header.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_contact_with_checkbox.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_reply_item_text.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_reply_item_text.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/item_pager_image.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/item_pager_image.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_more.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_comment_more.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_new_reply_alert_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_new_reply_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_left_voice_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_left_voice_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_sent_video.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_sent_video.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/activity_baidumap.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/activity_baidumap.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_fragment.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_fragment.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/activity_group_simle_details.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/activity_group_simle_details.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_received_file.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_received_file.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_contact.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/hot_fragment_fristitem.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/hot_fragment_fristitem.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_sent_location.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_sent_location.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_sent_picture.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_sent_picture.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/alert_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_detail_nomap.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_comment_detail_nomap.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_sent_video_call.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_sent_video_call.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/recommend_hlistview.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/recommend_hlistview.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_reply_item_audio.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_reply_item_audio.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/popshare_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/popshare_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/new_fragment_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/new_fragment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/hot_or_near_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/hot_or_near_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/show_image_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/show_image_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_right_text_zan_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_right_text_zan_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_post_comment_platform.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_post_comment_platform.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_error_pop_top.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_error_pop_top.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/register_head_layout.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/register_head_layout.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_list_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_list_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/attention_fragment_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/attention_fragment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_full_curtain.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_ucenter.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_failed_load_page.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/search_result_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/search_result_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_post_comment.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/bottombar_group_text.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/bottombar_group_text.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_at_view.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/tb_munion_adview.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/tb_munion_adview.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_received_location.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_received_location.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/register_head_layout.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/register_head_layout.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/register_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/register_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_right_text_zan_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_right_text_zan_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/activity_video_call.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/activity_video_call.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/grid_child_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/grid_child_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/recommend_pager.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/recommend_pager.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/member_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/member_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_chat_history.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_chat_history.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/history_fragment_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/history_fragment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/activity_main_group_fragment.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/activity_main_group_fragment.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/zan_facial_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/zan_facial_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/attention_activity_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/attention_activity_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_sent_location.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_sent_location.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_left_voice_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_left_voice_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_received_location.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_received_location.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/login_or_register_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/login_or_register_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_right_text_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_right_text_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/hot_fragment_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/hot_fragment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_left_text_zan_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_left_text_zan_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/alert_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/member_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/member_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_received_picture.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_received_picture.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/hot_fragment_fristitem.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/hot_fragment_fristitem.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/history_fragment_group_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/history_fragment_group_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/title_layout.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/title_layout.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_at_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/pop_native_share_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/pop_native_share_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/recommend_hlistview_adapter.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/recommend_hlistview_adapter.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/new_fragment_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/new_fragment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_left_text_and_image_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_left_text_and_image_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_base_alert_dialog_button.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_titile_bar.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/register_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/register_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_photo_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_photo_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/voice_rcd_hint_window.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/voice_rcd_hint_window.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_received_message.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_received_message.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_invite_msg.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_invite_msg.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_full_alert_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/share_type.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/share_type.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/hot_fragment_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/hot_fragment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_post_comment_platform.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_post_comment_platform.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_update_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_update_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/invitation_activity_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/invitation_activity_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_contact_spinner.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_contact_spinner.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/recommend_hlistview_adapter.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/recommend_hlistview_adapter.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/user_center_layout.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/user_center_layout.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_update_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_update_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_left_text_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_left_text_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_detail.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_comment_detail.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/login_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/login_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_contact_with_checkbox.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_audio_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_audio_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/main_menu.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/main_menu.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/recommend_pager.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/recommend_pager.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/loading_view_anim.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/loading_view_anim.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_error_pop_bottom.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_error_pop_bottom.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/voice_rcd_hint_window.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/voice_rcd_hint_window.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/item_pager_image.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/item_pager_image.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_post_share.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/row_received_voice.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/row_received_voice.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_activity_conversation.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_activity_conversation.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_at_overlay.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_online_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_online_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_right_photo_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_right_photo_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/post_loading.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/post_loading.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/activity_show_big_image.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/activity_show_big_image.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_list_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_list_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/search_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/search_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_contact_spinner.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_contact_spinner.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_fb_input_conversation_audio.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_fb_input_conversation_audio.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/invitation_activity_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/invitation_activity_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/register_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/register_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/grid_child_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/grid_child_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_full_curtain.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_at_view.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/login_newactivity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/login_newactivity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/history_expandablelistview_fragment.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/history_expandablelistview_fragment.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_full_alert_dialog.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_socialize_comment_content.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_socialize_comment_content.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/home_near_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/home_near_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/activity_video_call.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/activity_video_call.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/login_choice_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/login_choice_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/row_sent_voice.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/row_sent_voice.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_failed_load_page.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/chat_left_photo_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/chat_left_photo_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/message_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/message_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/chat_group_member.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/chat_group_member.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_full_alert_dialog_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/commom_back_btn.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/commom_back_btn.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_pull_to_refresh_header.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/history_fragment_group_item.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/history_fragment_group_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/xieyi_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/xieyi_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/grid_chat_facial_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/grid_chat_facial_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/near_fragment_item.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/near_fragment_item.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/tb_munion_aditem.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/tb_munion_aditem.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_post_comment.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/layout/umeng_fb_input_contact.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/layout/umeng_fb_input_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/layout/umeng_socialize_bind_select_dialog.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/layout/umeng_socialize_bind_select_dialog.xml"
+    }
+]

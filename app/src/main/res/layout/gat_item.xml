@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yktx.util.SquareLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/hot_head"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:layout_centerInParent="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/head_null" />
+	
+    <ImageView 
+         android:id="@+id/zanFacial"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+         android:layout_alignRight="@id/hot_head"
+         android:layout_alignBottom="@id/hot_head"
+         android:src="@drawable/chat_facial_small1"
+        />
+    
+</com.yktx.util.SquareLayout>

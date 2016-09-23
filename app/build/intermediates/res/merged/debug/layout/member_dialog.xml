@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menber_dialog_bg"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/rl_group_member_info"
+        android:layout_width="320dp"
+        android:layout_height="248dp"
+        android:background="@drawable/shape_member_dialog" >
+
+        <RelativeLayout
+            android:id="@+id/ll_group_member_info"
+            android:layout_width="fill_parent"
+            android:layout_height="128dp" >
+
+            <ImageView
+                android:id="@+id/iv_group_member_head"
+                android:layout_width="96dp"
+                android:layout_height="96dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="16dp"
+                android:layout_marginTop="8dp" />
+
+            <TextView
+                android:id="@+id/tv_group_member_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:layout_toRightOf="@id/iv_group_member_head"
+                android:gravity="center"
+                android:textColor="@color/meibao_color_3"
+                android:textSize="@dimen/font2" />
+
+            <TextView
+                android:id="@+id/tv_group_member_distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_group_member_name"
+                android:layout_below="@id/tv_group_member_name"
+                android:layout_marginTop="6dp"
+                android:textColor="@color/meibao_color_5"
+                android:textSize="@dimen/font5" />
+
+            <TextView
+                android:id="@+id/tv_group_member_age"
+                style="@style/chat_text_age_style"
+                android:layout_width="wrap_content"
+                android:layout_height="12dp"
+                android:layout_below="@id/tv_group_member_distance"
+                android:layout_marginTop="6dp"
+                android:layout_toRightOf="@id/iv_group_member_head" />
+
+            <TextView
+                android:id="@+id/tv_group_member_level"
+                style="@style/chat_text_sex_style"
+                android:layout_width="wrap_content"
+                android:layout_height="12dp"
+                android:layout_below="@id/tv_group_member_distance"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="6dp"
+                android:layout_toRightOf="@id/tv_group_member_age" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_group_member_action"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ll_group_member_info"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/iv_group_member_attention"
+                android:layout_width="106dp"
+                android:layout_height="72dp"
+                android:layout_weight="1.0"
+                android:src="@drawable/chat_member_attention" />
+
+            <View
+                android:layout_width="0.5dp"
+                android:layout_height="match_parent"
+                android:background="@color/meibao_color_6" />
+
+            <ImageView
+                android:id="@+id/iv_group_member_aite"
+                android:layout_width="108dp"
+                android:layout_height="72dp"
+                android:layout_weight="1.0"
+                android:src="@drawable/chat_member_aite" />
+
+            <View
+                android:layout_width="0.5dp"
+                android:layout_height="match_parent"
+                android:background="@color/meibao_color_6" />
+
+            <ImageView
+                android:id="@+id/iv_group_member_lock"
+                android:layout_width="106dp"
+                android:layout_height="72dp"
+                android:layout_weight="1.0"
+                android:src="@drawable/chat_member_lock" />
+            <View
+                android:layout_width="0.5dp"
+                android:layout_height="match_parent"
+                android:background="@color/meibao_color_6" />
+
+            <ImageView
+                android:id="@+id/iv_group_member_sixin"
+                android:layout_width="106dp"
+                android:layout_height="72dp"
+                android:layout_weight="1.0"
+                android:src="@drawable/chat_member_sixi" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_above="@id/ll_group_member_action"
+            android:background="@color/meibao_color_6" />
+
+        <View
+            android:id="@+id/bottomView"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@id/ll_group_member_action"
+            android:background="@color/meibao_color_6" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/bottomView"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <!-- <ImageView -->
+            <!-- android:id="@+id/iv_group_member_getIt" -->
+            <!-- android:layout_width="20dp" -->
+            <!-- android:layout_height="20dp" -->
+            <!-- android:layout_weight="1.0" -->
+            <!-- android:src="@drawable/chat_member_aite" -->
+            <!-- /> -->
+
+            <ImageView
+                android:id="@+id/iv_group_member_jubao"
+                android:layout_width="53dp"
+                android:layout_height="48dp"
+                android:layout_weight="1.0"
+                android:src="@drawable/chat_member_jubao" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/registerinfo_backgroud"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <include layout="@layout/title_layout" />
+
+            <RelativeLayout
+                android:id="@+id/rl_registerinfo_takeheadimage"
+                android:layout_width="168dp"
+                android:layout_height="168dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="12dp" >
+
+                <ImageView
+                    android:id="@+id/registerinfo_headimage"
+                    android:layout_width="156dp"
+                    android:layout_height="156dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/addhead" />
+
+                <ImageView
+                    android:id="@+id/registerinfo_headimageline"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/registerLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="34dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="46dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="2dp"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true" >
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="昵   称"
+                        android:textColor="@color/meibao_color_6"
+                        android:textSize="@dimen/font3" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="16dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="8dp"
+                        android:background="@color/meibao_color_6" />
+
+                    <EditText
+                        android:id="@+id/registerinfo_edit_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="8dp"
+                        android:layout_weight="1"
+                        android:background="@color/none"
+                        android:ems="10"
+                        android:gravity="center"
+                        android:hint="输入昵称"
+                        android:maxEms="8"
+                        android:minEms="1"
+                        android:textColor="@color/meibao_color_3"
+                        android:textColorHint="@color/meibao_color_6"
+                        android:textCursorDrawable="@drawable/guangbiao"
+                        android:textSize="@dimen/font3" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/meibao_login_line" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="46dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="2dp" >
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="性   别"
+                        android:textColor="@color/meibao_color_6"
+                        android:textSize="@dimen/font3" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="16dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="8dp"
+                        android:background="@color/meibao_color_6" />
+
+                    <LinearLayout
+                        android:id="@+id/manCheckLayout"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="40dp" >
+
+<!--                         <ImageView -->
+<!--                             android:id="@+id/manCheck" -->
+<!--                             android:layout_width="12dp" -->
+<!--                             android:layout_height="12dp" -->
+<!--                             android:layout_gravity="center_vertical" -->
+<!--                             android:background="@drawable/zhuce_icon2" /> -->
+
+                        <TextView
+                            android:id="@+id/manCheck"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:padding="4dp"
+                            android:text="鲜肉"
+                            android:textColor="@color/meibao_color_3"
+                            android:textSize="@dimen/font3" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/womanCheckLayout"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="52dp" >
+
+<!--                         <ImageView -->
+<!--                             android:id="@+id/womanCheck" -->
+<!--                             android:layout_width="12dp" -->
+<!--                             android:layout_height="12dp" -->
+<!--                             android:layout_gravity="center_vertical" -->
+<!--                             android:background="@drawable/zhuce_icon1" /> -->
+
+                        <TextView
+							android:id="@+id/womanCheck"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:padding="4dp"
+                            android:text="姑娘"
+                            android:textColor="@color/meibao_color_6"
+                            android:textSize="@dimen/font3" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/meibao_login_line" />
+
+                <LinearLayout
+                    android:id="@+id/birthdayLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="46dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="2dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="生   日"
+                        android:textColor="@color/meibao_color_6"
+                        android:textSize="@dimen/font3" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="16dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="8dp"
+                        android:background="@color/meibao_color_6" />
+
+                    <TextView
+                        android:id="@+id/birthdayText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:gravity="center"
+                        android:padding="4dp"
+                        android:text="1990-01-01"
+                        android:textColor="@color/meibao_color_3"
+                        android:textSize="@dimen/font3" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/registerFinish"
+                android:layout_width="300dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/shape_member"
+                android:gravity="center"
+                android:text="完  成"
+                android:textColor="@color/meibao_color_3"
+                android:textSize="@dimen/font3" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

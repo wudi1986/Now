@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="53dp"
+    android:background="@color/white" >
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="53dp" />
+
+    <TextView
+        android:id="@+id/near_groupName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="12dp"
+        android:gravity="center"
+        android:text="立即体验"
+        android:textColor="@color/black"
+        android:textSize="@dimen/font2" />
+
+    <TextView
+        android:id="@+id/near_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="18dp"
+        android:layout_toRightOf="@id/near_groupName"
+        android:background="@drawable/home_near_num"
+        android:paddingLeft="8dp"
+        android:paddingRight="2dp"
+        android:text="100人"
+        android:textColor="@color/rose_red"
+        android:textSize="8sp" />
+
+    <ImageView
+        android:id="@+id/near_rightJian"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="8dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/icon_arrow" />
+
+    <ImageView
+        android:id="@+id/near_head"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_toLeftOf="@id/near_rightJian"
+        android:scaleType="centerCrop"
+        android:src="@drawable/head_null" />
+
+    <TextView
+        android:id="@+id/near_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="8dp"
+        android:layout_toLeftOf="@id/near_head"
+        android:gravity="center"
+        android:text="0.4km"
+        android:textColor="@color/gray_5"
+        android:textSize="@dimen/font6" />
+
+    <ImageView
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_toLeftOf="@id/near_distance"
+        android:scaleType="centerCrop"
+        android:src="@drawable/list_distance_sign"
+        android:visibility="invisible" />
+    <!--
+         <View
+        android:id="@+id/near_line"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/gray_1" />
+    -->
+
+</RelativeLayout>

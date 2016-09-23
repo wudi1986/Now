@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/com.umeng.fb.v5.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="877e13f8424604c708dfd061b2ef731c13289519">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/com.umeng.fb.v5.1.0_6001e3a383ff98dbc4c62f6df3ba064474d463fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/Cellar/gradle/wrapper/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_c76113cfde33cb67652cfa7e1a553442903aaf57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/SocialSDK_QQZone_1_d4a284cc4dff445c734da7c8c335bf710cfdaffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7039a80d3cf57444b47a4e929872edbfdb587cbf">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/SocialSDK_QQZone_3_17ece2299a51002bc9c787d36d88bbb7d809985b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df2e038f57386ec1b8949ceb040c89f3a6df8daa">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/SocialSDK_WeiXin_2_8be68d2bcf3a95944f38f07dbdb7fbcc8b26f77f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/baidumapapi_v3_2_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_v3_2_0_d5d1e5e60fcc4465c4092aa5f8b3e34ab2a62cf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.1.3_e0780c03acb2c78000f4aab7d44ff4f914e5b694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/locSDK_4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1c117908d3d5d1e1da422f513db06f96ec246d85">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/locSDK_4.1_262a2c1322ca9a4ea7677f2044196b076ec3a899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/umeng-update-v2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bfd85d65a43fcf2cd343f11c13ad29bc3965a1f">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-update-v2.5.0_5538085252ed75ce5c7f844776ad9f22ad6570fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/easemobchat_2.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5273f8958fd21d41d7a732f65846d32ff330c64">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/easemobchat_2.1.6_48aabce787e18ed1011c99d40bf99d237b3bf881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5c4623ccdcc62ca78ab7ca2a0fa4a5d400e77b1">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3a9437656229c83a79e7c6016994e4bca5a9e703/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="87d00914302f4f92d2bac5559e85442451c23315">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_social_sdk_fa33a80d79c8b35e06f47dbfac80880df859b36c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_0369e9d339fa7cd4c46086aeb5e0c5e3a0009821/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dfcecc4dc996bc793e351487b8e7182eb7659b78">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/SocialSDK_Sina_175f69222ab9b8ffbf1b3e982a7308b100302e0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/log4j-1.2.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5af35056b4d257e4b64b9e8069c0746e8b08629f">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/log4j-1.2.17_76f8b93cfb6dddc67e1b0734570302d05ccbfd38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/SocialSDK_WeiXin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/SocialSDK_WeiXin_f51390bb973a72589422b07e89d794e3a3dd299b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/TalkingDataAnalytics_V1.2.61.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de401f0a345245e4b048f9092fd292799eff594d">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/TalkingDataAnalytics_V1.2.61_7c0604b08d6600407259732a778fca18d4ee679b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/jpush-sdk-release1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4286791fafcbc184fac137737f1d50d199aa82d1">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-sdk-release1.5.5_b953f0bff9a814be0a87eba4b674a9334e74d49a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0208d27daf0319e06737f529e00e29781be5a7e">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_22d3b492b90b2cbc03f3c564f0d881f21cbb031f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/adcocoa.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a19bf7ff6e1b2ac629bcc29e8018c997020b29b8">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/adcocoa_4aebf4b6fa2877d4f0468b918a530e761804a955/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/umeng-analytics-v5.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cdbe5b692334ae8452fa5aa9ba2982fef4a6fff2">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v5.4.1_096cd9bdd90d09f5c06ae37f70cfa9e87b0b7d56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="73915005d14af2994f235034b9f9832d666a6ec9">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/SocialSDK_QQZone_2_e28ee34d99d83748fc85cf151ca24046235b4d2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_c48d0209c6b6e6e962e2b14ba5334602c3a8671f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wudi/Downloads/qq下载/AS_Group/app/libs/mina-core-2.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b2bf41f34da46e8e40ba76301f7ca56cf36c2d26">
+        <dex dex="/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/transforms/dex/debug/folders/1000/2/mina-core-2.0.7_1caca74b2fa44541ec6bc51c2a47a622bc6b1161/classes.dex" />
+    </item>
+
+</items>

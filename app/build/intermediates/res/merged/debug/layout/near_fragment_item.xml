@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white" >
+
+    <!--
+         <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="16dp"
+        android:background="@color/black" />
+    -->
+
+    <RelativeLayout
+        android:id="@+id/left"
+        android:layout_width="74dp"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/newUserDistance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="12dp"
+            android:text="0.5"
+            android:textColor="@color/meibao_color_2"
+            android:textSize="26sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/newUserDistance"
+            android:text="km"
+            android:textColor="@color/meibao_color_2"
+            android:textSize="@dimen/font5" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:src="@drawable/near_0to1"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/newBottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_toRightOf="@id/left"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/newGroupName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:includeFontPadding="false"
+            android:maxWidth="220dp"
+            android:singleLine="true"
+            android:text="你现在闹哪样"
+            android:textColor="@color/meibao_color_3"
+            android:textSize="@dimen/font2" />
+
+        <TextView
+            android:id="@+id/nearMessageNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/newGroupName"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:includeFontPadding="false"
+            android:maxWidth="220dp"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:text="累计消息"
+            android:textColor="@color/meibao_color_6"
+            android:textSize="@dimen/font5" />
+
+        <TextView
+            android:id="@+id/newGroupPeopleNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nearMessageNum"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:maxWidth="220dp"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:includeFontPadding="false"
+            android:text="69人在线"
+            android:textColor="@color/meibao_color_6"
+            android:textSize="@dimen/font5" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_marginTop="16dp"
+        android:layout_below="@id/newBottom"
+        android:layout_toRightOf="@id/imageView2"
+        android:background="@color/meibao_color_8" />
+
+</RelativeLayout>

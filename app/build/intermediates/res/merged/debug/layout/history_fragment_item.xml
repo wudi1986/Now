@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="72dp" >
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="72dp" />
+
+    <RelativeLayout
+        android:id="@+id/historyLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="19dp"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/imagesign"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/history_fragment_image" />
+
+        <TextView
+            android:id="@+id/historyGroupName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@id/imagesign"
+            android:layout_marginLeft="8dp"
+            android:includeFontPadding="false"
+            android:text="你现在闹哪样"
+            android:textColor="@color/meibao_item_name_color"
+            android:textSize="@dimen/font3" />
+		<ImageView 
+		    android:id="@+id/atImage"
+		    android:layout_toRightOf="@id/historyGroupName"
+            android:layout_alignBottom="@id/historyGroupName"
+		     android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginBottom="2dp"
+		    android:src="@drawable/item_at_sign"
+		    android:visibility="gone"
+		    />
+        <TextView
+            android:id="@+id/historyGroupMsgCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/font7"
+            android:layout_alignBottom="@id/historyGroupName"
+            android:layout_toRightOf="@id/atImage"
+            android:layout_marginLeft="2dp"
+            android:text="64条"
+            android:textColor="@color/meibao_color_1" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/historyLastPhoto"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="16dp"
+        android:src="@drawable/near_fragment_item_left"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/historyLeft"
+        android:layout_below="@id/historyLeft"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="26dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/historyLastTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/meibao_color_6"
+            android:gravity="center"
+            android:textSize="@dimen/font5"
+            android:includeFontPadding="false"
+            android:text="最后进入" />
+
+        <TextView
+            android:id="@+id/historyGroupPeopleNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:singleLine="true"
+            android:textSize="@dimen/font5"
+            android:textColor="@color/meibao_color_6"
+            android:gravity="center"
+            android:ellipsize="end"
+            android:includeFontPadding="false"
+            android:text="69人在线" />
+    </LinearLayout>
+
+<!--     <View -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="1dp" -->
+<!--         android:layout_alignParentBottom="true" -->
+<!--         android:background="@color/meibao_color_6" /> -->
+
+</RelativeLayout>

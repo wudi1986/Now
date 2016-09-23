@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popBaseLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+           />
+
+<!--             <ImageView -->
+<!--                 android:id="@+id/chat_photo" -->
+<!--                 android:layout_width="match_parent" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:layout_centerInParent="true" /> -->
+
+            <LinearLayout
+                android:id="@+id/chatBottom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:orientation="vertical" >
+
+                <GridView
+                    android:id="@+id/gat_gridView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:numColumns="6" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/zanbutton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_above="@id/chatBottom"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/chat_image_zan_select" />
+    </RelativeLayout>
+
+</LinearLayout>

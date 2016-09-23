@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/share"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#cc000000" >
+	<GridView 
+	    android:id="@+id/zanGridView"
+	    android:layout_centerInParent="true"
+	    android:layout_width="204dp"
+	    android:layout_height="204dp"
+        android:columnWidth="68dp"
+        android:gravity="center"
+        android:horizontalSpacing="3dip"
+        android:numColumns="3"
+        android:stretchMode="columnWidth"
+    >
+	</GridView>
+</RelativeLayout>

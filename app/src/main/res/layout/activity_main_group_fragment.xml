@@ -1,0 +1,136 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- <com.yktx.util.StickyLayout -->
+    <!-- android:id="@+id/sticky_layout" -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="match_parent" -->
+    <!-- android:layout_marginTop="0dp" -->
+    <!-- android:orientation="vertical" > -->
+
+
+    <!-- <LinearLayout -->
+    <!-- android:id="@+id/sticky_header" -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="match_parent" -->
+    <!-- android:background="@drawable/home_bg" -->
+    <!-- android:orientation="horizontal" > -->
+
+
+    <!-- <RelativeLayout -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="match_parent" > -->
+
+
+    <!-- <ImageView -->
+    <!-- android:id="@+id/home_logo" -->
+    <!-- android:layout_width="132dp" -->
+    <!-- android:layout_height="84dp" -->
+    <!-- android:layout_centerHorizontal="true" -->
+    <!-- android:layout_marginTop="48dp" -->
+    <!-- android:src="@drawable/home_logo" /> -->
+
+
+    <!-- <RelativeLayout -->
+    <!-- android:id="@+id/searchLayout" -->
+    <!-- android:layout_width="320dp" -->
+    <!-- android:layout_height="144dp" -->
+    <!-- android:layout_centerHorizontal="true" -->
+    <!-- android:layout_marginTop="208dp" -->
+    <!-- android:background="@drawable/home_search" > -->
+
+
+    <!-- <TextView -->
+    <!-- android:id="@+id/mainSearchTitle" -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_centerHorizontal="true" -->
+    <!-- android:layout_marginTop="16dp" -->
+    <!-- android:gravity="center" -->
+    <!-- android:text="输入你正在玩闹的事情" -->
+    <!-- android:textColor="@color/meibao_color6" -->
+    <!-- android:textSize="@dimen/font_2" /> -->
+
+
+    <!-- <EditText -->
+    <!-- android:id="@+id/mainSearchEdit" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_centerInParent="true" -->
+    <!-- android:layout_marginTop="16dp" -->
+    <!-- android:background="@null" -->
+    <!-- android:focusable="false" -->
+    <!-- android:focusableInTouchMode="false" -->
+    <!-- android:gravity="center" -->
+    <!-- android:text="例如：我正在蹲坑" -->
+    <!-- android:textColor="@color/white" -->
+    <!-- android:textSize="@dimen/font_2" /> -->
+    <!-- </RelativeLayout> -->
+
+
+    <!-- <ImageView -->
+    <!-- android:id="@+id/home_up" -->
+    <!-- android:layout_width="80dp" -->
+    <!-- android:layout_height="80dp" -->
+    <!-- android:layout_alignParentBottom="true" -->
+    <!-- android:layout_centerHorizontal="true" -->
+    <!-- android:src="@drawable/home_up" /> -->
+
+
+    <!-- <RelativeLayout -->
+    <!-- android:id="@+id/rightHead" -->
+    <!-- android:layout_width="48dp" -->
+    <!-- android:layout_height="68dp" -->
+    <!-- android:layout_alignParentRight="true" -->
+    <!-- android:background="@drawable/home_right" > -->
+
+
+    <!-- <ImageView -->
+    <!-- android:layout_width="24dp" -->
+    <!-- android:layout_height="24dp" -->
+    <!-- android:layout_centerInParent="true" -->
+    <!-- android:src="@drawable/home_right_head" /> -->
+    <!-- </RelativeLayout> -->
+    <!-- </RelativeLayout> -->
+    <!-- </LinearLayout> -->
+
+    <LinearLayout
+        android:id="@+id/sticky_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <com.astuetz.PagerSlidingTabStrip
+                android:id="@+id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="48dp" />
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/pager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tabs" />
+        </RelativeLayout>
+    </LinearLayout>
+
+<!--     <ImageView -->
+<!--         android:id="@+id/backHome" -->
+<!--         android:layout_width="48dp" -->
+<!--         android:layout_height="48dp" -->
+<!--         android:src="@drawable/back_home" -->
+<!--         android:layout_alignParentBottom="true" -->
+<!--         android:layout_marginBottom="24dp" -->
+<!--         android:layout_centerHorizontal="true" -->
+<!--          /> -->
+    
+    
+    
+    <!-- </com.yktx.util.StickyLayout> -->
+
+</RelativeLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/yingtao_search"
+        android:showAsAction="ifRoom|withText"
+        android:orderInCategory="101"
+        android:title="@string/action_plus"/>
+     <item
+        android:id="@+id/action_message"
+       android:orderInCategory="102"
+        android:icon="@drawable/xiaoxi"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_search"/>
+      <!-- android:actionViewClass="android.widget.SearchView"  系统可输入的搜索框-->
+    <item
+        android:id="@+id/action_my"
+        android:orderInCategory="103"
+        android:showAsAction="never"
+        android:icon="@drawable/yingtao_gerenzhongxin"
+        android:title="@string/action_more"/>
+    <item
+        android:id="@+id/action_feedback"
+        android:orderInCategory="104"
+        android:showAsAction="never"
+        android:icon="@drawable/fenlei"
+        android:title="@string/action_feedback"
+        />
+    <item
+        android:id="@+id/action_invite"
+        android:orderInCategory="105"
+        android:showAsAction="never"
+        android:icon="@drawable/yingtao_feedback"
+        android:title="@string/action_invite"
+        />
+
+</menu>

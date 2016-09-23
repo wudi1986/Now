@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.yktx.yan.MainActivity"
+    tools:ignore="MergeRootFrame" >
+    
+
+<!--     	<ImageView  -->
+<!--     	    android:id="@+id/ok" -->
+<!--     	    android:layout_marginTop="148dp" -->
+<!-- 		    android:layout_width="304dp" -->
+<!-- 		    android:layout_centerHorizontal="true" -->
+<!-- 	    	android:layout_height="140dp" -->
+<!-- 	    	android:src="@drawable/main_activity_animation" -->
+<!--     	    /> -->
+  		<ImageView	
+           android:id="@+id/ok"
+           android:layout_width="332dp"
+           android:layout_height="186dp"
+           android:layout_centerHorizontal="true"
+           android:layout_marginTop="50dp"
+           android:src="@drawable/home_logo" />
+    
+    	<ImageView 
+		    android:layout_width="198dp"
+		    android:layout_below="@id/ok"
+		    android:layout_centerHorizontal="true"
+	    	android:layout_height="16dp"
+	    	android:src="@drawable/qidong_wenzi"
+    	    />
+
+    	
+    </RelativeLayout>
+

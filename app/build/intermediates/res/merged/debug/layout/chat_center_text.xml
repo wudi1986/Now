@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="1dp"
+        android:layout_height="48dp" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+			android:layout_centerVertical="true"
+            android:layout_marginLeft="42dp"
+            android:layout_marginRight="42dp"
+            android:alpha="0.6"
+            android:background="#727171"
+            android:layout_height="1dp" />
+
+        <TextView
+            android:id="@+id/chat_text"
+            style="@style/chat_text_title_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+			android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="时间"/>
+
+</RelativeLayout>

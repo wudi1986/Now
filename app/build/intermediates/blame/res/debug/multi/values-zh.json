@@ -1,0 +1,2604 @@
+[
+    {
+        "outputFile": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2534,
+                        "endLine": 51,
+                        "endColumn": 19,
+                        "endOffset": 2829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2247,
+                        "endLine": 44,
+                        "endColumn": 19,
+                        "endOffset": 2526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 44,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 419,
+                        "endColumn": 41,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 47,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 61,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 593,
+                        "endColumn": 58,
+                        "endOffset": 650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 56,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 323,
+                        "endColumn": 53,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 41,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 500,
+                        "endColumn": 38,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endColumn": 47,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 142,
+                        "endColumn": 44,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 41,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 461,
+                        "endColumn": 38,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 47,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 278,
+                        "endColumn": 44,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 56,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 539,
+                        "endColumn": 53,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endColumn": 48,
+                    "endOffset": 1122
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 187,
+                        "endColumn": 45,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1127,
+                    "endColumn": 44,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 377,
+                        "endColumn": 41,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 47,
+                    "endOffset": 1215
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 233,
+                        "endColumn": 44,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1220,
+                    "endColumn": 47,
+                    "endOffset": 1263
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 97,
+                        "endColumn": 44,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1268,
+                    "endColumn": 57,
+                    "endOffset": 1321
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 295,
+                        "endColumn": 54,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1326,
+                    "endColumn": 59,
+                    "endOffset": 1381
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 238,
+                        "endColumn": 56,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1386,
+                    "endColumn": 65,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 62,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endColumn": 56,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 184,
+                        "endColumn": 53,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1509,
+                    "endColumn": 61,
+                    "endOffset": 1566
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 709,
+                        "endColumn": 58,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1571,
+                    "endColumn": 67,
+                    "endOffset": 1634
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 768,
+                        "endColumn": 64,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1639,
+                    "endColumn": 76,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 350,
+                        "endColumn": 73,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 71,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 115,
+                        "endColumn": 68,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 71,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 71,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1860,
+                    "endColumn": 64,
+                    "endOffset": 1920
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 833,
+                        "endColumn": 61,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1925,
+                    "endColumn": 71,
+                    "endOffset": 1992
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 424,
+                        "endColumn": 68,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1997,
+                    "endColumn": 78,
+                    "endOffset": 2071
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 895,
+                        "endColumn": 75,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2076,
+                    "endColumn": 75,
+                    "endOffset": 2147
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 493,
+                        "endColumn": 72,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2152,
+                    "endColumn": 73,
+                    "endOffset": 2221
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 566,
+                        "endColumn": 70,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2226,
+                    "endColumn": 44,
+                    "endOffset": 2266
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 44,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2271,
+                    "endColumn": 64,
+                    "endOffset": 2331
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 64,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2336,
+                    "endColumn": 53,
+                    "endOffset": 2385
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 53,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2390,
+                    "endColumn": 54,
+                    "endOffset": 2440
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 54,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2445,
+                    "endColumn": 73,
+                    "endOffset": 2514
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 73,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2519,
+                    "endColumn": 60,
+                    "endOffset": 2575
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 60,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2580,
+                    "endColumn": 60,
+                    "endOffset": 2636
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1686,
+                        "endColumn": 60,
+                        "endOffset": 1742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2641,
+                    "endColumn": 60,
+                    "endOffset": 2697
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1624,
+                        "endColumn": 60,
+                        "endOffset": 1680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2702,
+                    "endColumn": 54,
+                    "endOffset": 2752
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1506,
+                        "endColumn": 54,
+                        "endOffset": 1556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2757,
+                    "endColumn": 53,
+                    "endOffset": 2806
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1340,
+                        "endColumn": 53,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2811,
+                    "endColumn": 53,
+                    "endOffset": 2860
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 53,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2865,
+                    "endColumn": 50,
+                    "endOffset": 2911
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 50,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2916,
+                    "endColumn": 52,
+                    "endOffset": 2964
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 52,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2969,
+                    "endColumn": 57,
+                    "endOffset": 3022
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2896,
+                        "endColumn": 57,
+                        "endOffset": 2949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3027,
+                    "endColumn": 59,
+                    "endOffset": 3082
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2835,
+                        "endColumn": 59,
+                        "endOffset": 2890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3087,
+                    "endColumn": 52,
+                    "endOffset": 3135
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2070,
+                        "endColumn": 52,
+                        "endOffset": 2118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3140,
+                    "endColumn": 50,
+                    "endOffset": 3186
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 50,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3191,
+                    "endColumn": 64,
+                    "endOffset": 3251
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2179,
+                        "endColumn": 64,
+                        "endOffset": 2239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3256,
+                    "endColumn": 97,
+                    "endOffset": 3349
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 97,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3354,
+                    "endColumn": 86,
+                    "endOffset": 3436
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 86,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3441,
+                    "endColumn": 67,
+                    "endOffset": 3504
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 67,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3509,
+                    "endColumn": 54,
+                    "endOffset": 3559
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1768,
+                        "endColumn": 54,
+                        "endOffset": 1818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3564,
+                    "endColumn": 53,
+                    "endOffset": 3613
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2124,
+                        "endColumn": 53,
+                        "endOffset": 2173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3618,
+                    "endColumn": 61,
+                    "endOffset": 3675
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2007,
+                        "endColumn": 61,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3680,
+                    "endColumn": 61,
+                    "endOffset": 3737
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1880,
+                        "endColumn": 61,
+                        "endOffset": 1937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3742,
+                    "endColumn": 54,
+                    "endOffset": 3792
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1824,
+                        "endColumn": 54,
+                        "endOffset": 1874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3797,
+                    "endColumn": 85,
+                    "endOffset": 3878
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 85,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3883,
+                    "endColumn": 59,
+                    "endOffset": 3938
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2955,
+                        "endColumn": 59,
+                        "endOffset": 3010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3943,
+                    "endColumn": 75,
+                    "endOffset": 4014
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3016,
+                        "endColumn": 75,
+                        "endOffset": 3087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4019,
+                    "endColumn": 44,
+                    "endOffset": 4059
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 44,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4064,
+                    "endColumn": 51,
+                    "endOffset": 4111
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 51,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4116,
+                    "endColumn": 50,
+                    "endOffset": 4162
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1448,
+                        "endColumn": 56,
+                        "endOffset": 1500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4167,
+                    "endColumn": 62,
+                    "endOffset": 4225
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1943,
+                        "endColumn": 62,
+                        "endOffset": 2001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4230,
+                    "endColumn": 59,
+                    "endOffset": 4285
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 59,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4290,
+                    "endColumn": 75,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1101,
+                        "endColumn": 75,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 54,
+                    "endOffset": 4416
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 54,
+                        "endOffset": 959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4421,
+                    "endColumn": 73,
+                    "endOffset": 4490
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endColumn": 73,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4495,
+                    "endColumn": 47,
+                    "endOffset": 4538
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 47,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4543,
+                    "endColumn": 63,
+                    "endOffset": 4602
+                },
+                "from": {
+                    "file": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 63,
+                        "endOffset": 286
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2534,
+                        "endLine": 51,
+                        "endColumn": 19,
+                        "endOffset": 2829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2247,
+                        "endLine": 44,
+                        "endColumn": 19,
+                        "endOffset": 2526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 44,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 419,
+                        "endColumn": 41,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 47,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 61,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 593,
+                        "endColumn": 58,
+                        "endOffset": 650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 56,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 323,
+                        "endColumn": 53,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 41,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 500,
+                        "endColumn": 38,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endColumn": 47,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 142,
+                        "endColumn": 44,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 41,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 461,
+                        "endColumn": 38,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 47,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 278,
+                        "endColumn": 44,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 56,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 539,
+                        "endColumn": 53,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endColumn": 48,
+                    "endOffset": 1122
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 187,
+                        "endColumn": 45,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1127,
+                    "endColumn": 44,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 377,
+                        "endColumn": 41,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 47,
+                    "endOffset": 1215
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 233,
+                        "endColumn": 44,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1220,
+                    "endColumn": 47,
+                    "endOffset": 1263
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 97,
+                        "endColumn": 44,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1268,
+                    "endColumn": 57,
+                    "endOffset": 1321
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 295,
+                        "endColumn": 54,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1326,
+                    "endColumn": 59,
+                    "endOffset": 1381
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 238,
+                        "endColumn": 56,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1386,
+                    "endColumn": 65,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 62,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endColumn": 56,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 184,
+                        "endColumn": 53,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1509,
+                    "endColumn": 61,
+                    "endOffset": 1566
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 709,
+                        "endColumn": 58,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1571,
+                    "endColumn": 67,
+                    "endOffset": 1634
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 768,
+                        "endColumn": 64,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1639,
+                    "endColumn": 76,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 350,
+                        "endColumn": 73,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 71,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 115,
+                        "endColumn": 68,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 71,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 71,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1860,
+                    "endColumn": 64,
+                    "endOffset": 1920
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 833,
+                        "endColumn": 61,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1925,
+                    "endColumn": 71,
+                    "endOffset": 1992
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 424,
+                        "endColumn": 68,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1997,
+                    "endColumn": 78,
+                    "endOffset": 2071
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 895,
+                        "endColumn": 75,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2076,
+                    "endColumn": 75,
+                    "endOffset": 2147
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 493,
+                        "endColumn": 72,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2152,
+                    "endColumn": 73,
+                    "endOffset": 2221
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 566,
+                        "endColumn": 70,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2226,
+                    "endColumn": 44,
+                    "endOffset": 2266
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 44,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2271,
+                    "endColumn": 64,
+                    "endOffset": 2331
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 64,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2336,
+                    "endColumn": 53,
+                    "endOffset": 2385
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 53,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2390,
+                    "endColumn": 54,
+                    "endOffset": 2440
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 54,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2445,
+                    "endColumn": 73,
+                    "endOffset": 2514
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 73,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2519,
+                    "endColumn": 60,
+                    "endOffset": 2575
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 60,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2580,
+                    "endColumn": 60,
+                    "endOffset": 2636
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1686,
+                        "endColumn": 60,
+                        "endOffset": 1742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2641,
+                    "endColumn": 60,
+                    "endOffset": 2697
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1624,
+                        "endColumn": 60,
+                        "endOffset": 1680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2702,
+                    "endColumn": 54,
+                    "endOffset": 2752
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1506,
+                        "endColumn": 54,
+                        "endOffset": 1556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2757,
+                    "endColumn": 53,
+                    "endOffset": 2806
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1340,
+                        "endColumn": 53,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2811,
+                    "endColumn": 53,
+                    "endOffset": 2860
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 53,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2865,
+                    "endColumn": 50,
+                    "endOffset": 2911
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 50,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2916,
+                    "endColumn": 52,
+                    "endOffset": 2964
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 52,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2969,
+                    "endColumn": 57,
+                    "endOffset": 3022
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2896,
+                        "endColumn": 57,
+                        "endOffset": 2949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3027,
+                    "endColumn": 59,
+                    "endOffset": 3082
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2835,
+                        "endColumn": 59,
+                        "endOffset": 2890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3087,
+                    "endColumn": 52,
+                    "endOffset": 3135
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2070,
+                        "endColumn": 52,
+                        "endOffset": 2118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3140,
+                    "endColumn": 50,
+                    "endOffset": 3186
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 50,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3191,
+                    "endColumn": 64,
+                    "endOffset": 3251
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2179,
+                        "endColumn": 64,
+                        "endOffset": 2239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3256,
+                    "endColumn": 97,
+                    "endOffset": 3349
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 97,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3354,
+                    "endColumn": 86,
+                    "endOffset": 3436
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 86,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3441,
+                    "endColumn": 67,
+                    "endOffset": 3504
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 67,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3509,
+                    "endColumn": 54,
+                    "endOffset": 3559
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1768,
+                        "endColumn": 54,
+                        "endOffset": 1818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3564,
+                    "endColumn": 53,
+                    "endOffset": 3613
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2124,
+                        "endColumn": 53,
+                        "endOffset": 2173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3618,
+                    "endColumn": 61,
+                    "endOffset": 3675
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2007,
+                        "endColumn": 61,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3680,
+                    "endColumn": 61,
+                    "endOffset": 3737
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1880,
+                        "endColumn": 61,
+                        "endOffset": 1937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3742,
+                    "endColumn": 54,
+                    "endOffset": 3792
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1824,
+                        "endColumn": 54,
+                        "endOffset": 1874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3797,
+                    "endColumn": 85,
+                    "endOffset": 3878
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 85,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3883,
+                    "endColumn": 59,
+                    "endOffset": 3938
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2955,
+                        "endColumn": 59,
+                        "endOffset": 3010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3943,
+                    "endColumn": 75,
+                    "endOffset": 4014
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3016,
+                        "endColumn": 75,
+                        "endOffset": 3087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4019,
+                    "endColumn": 44,
+                    "endOffset": 4059
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 44,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4064,
+                    "endColumn": 51,
+                    "endOffset": 4111
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 51,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4116,
+                    "endColumn": 50,
+                    "endOffset": 4162
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1448,
+                        "endColumn": 56,
+                        "endOffset": 1500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4167,
+                    "endColumn": 62,
+                    "endOffset": 4225
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1943,
+                        "endColumn": 62,
+                        "endOffset": 2001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4230,
+                    "endColumn": 59,
+                    "endOffset": 4285
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 59,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4290,
+                    "endColumn": 75,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1101,
+                        "endColumn": 75,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 54,
+                    "endOffset": 4416
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 54,
+                        "endOffset": 959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4421,
+                    "endColumn": 73,
+                    "endOffset": 4490
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endColumn": 73,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4495,
+                    "endColumn": 47,
+                    "endOffset": 4538
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 47,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4543,
+                    "endColumn": 63,
+                    "endOffset": 4602
+                },
+                "from": {
+                    "file": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 63,
+                        "endOffset": 286
+                    }
+                }
+            }
+        ]
+    }
+]

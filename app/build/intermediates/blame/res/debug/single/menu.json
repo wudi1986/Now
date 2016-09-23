@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/menu/delete_message.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/menu/delete_message.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/menu/delete_contact.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/menu/delete_contact.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/menu/remove_from_blacklist.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/menu/remove_from_blacklist.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/menu/context_contact_list.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/menu/context_contact_list.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/menu/group_main_fragment_activity.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/menu/group_main_fragment_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/menu/remove_from_blacklist.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/menu/remove_from_blacklist.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/menu/group_main_fragment_activity.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/menu/group_main_fragment_activity.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/menu/context_contact_list.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/menu/context_contact_list.xml"
+    },
+    {
+        "merged": "/Users/wudi/Downloads/qq下载/AS_Group/app/build/intermediates/res/merged/debug/menu/delete_message.xml",
+        "source": "/Users/wudi/Downloads/qq下载/AS_Group/app/src/main/res/menu/delete_message.xml"
+    },
+    {
+        "merged": "/Users/wudi/AndroidStudioProjects/Now/app/build/intermediates/res/merged/debug/menu/delete_contact.xml",
+        "source": "/Users/wudi/AndroidStudioProjects/Now/app/src/main/res/menu/delete_contact.xml"
+    }
+]
